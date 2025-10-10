@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Oct 10 09:50:46 2025
+
+@author: tusha
+"""
+streamlit
+pandas
+scikit-learn
